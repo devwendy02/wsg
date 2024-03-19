@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Falbum-raffle","\u002Falbums","\u002Fgames","\u002Fgold","\u002Fhearts","\u002Fhistory","\u002Fkeys","\u002Fnft-staking","\u002Fotc","\u002Fprofile","\u002Franks","\u002Fstake","\u002Fvesting"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
